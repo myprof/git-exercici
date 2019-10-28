@@ -1,6 +1,6 @@
 1st line
 2nd line
 3rd line
-4th line
+additional text of branch1
 5th line
 master changed
